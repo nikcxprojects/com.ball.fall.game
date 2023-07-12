@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705902695010",
+    "project_id": "comballfallgame",
+    "storage_bucket": "comballfallgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705902695010:android:0514e31c39eec934bdf73b",
+        "android_client_info": {
+          "package_name": "com.ball.fall.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705902695010-7esb83n5agdd0r1evk0rtb62a1ad8sjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwXcJKJlH7cyYV-NTMYwJBMyyjRZc2oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705902695010-7esb83n5agdd0r1evk0rtb62a1ad8sjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
